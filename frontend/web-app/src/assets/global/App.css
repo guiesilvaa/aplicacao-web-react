@@ -1,0 +1,69 @@
+/* Importando Fontes */
+@font-face{
+    font-family: "InterBold";
+    src: url('../fonts/Bold.ttf')
+}
+
+@font-face{
+    font-family: "InterCondBold";
+    src: url('../fonts/CondensedBold.ttf')
+}
+
+@font-face{
+    font-family: "InterCondDemiBold";
+    src: url('../fonts/CondensedDemiBold.ttf')
+}
+
+@font-face{
+    font-family: "InterCondExtraBold";
+    src: url('../fonts/CondensedExtraBold.ttf')
+}
+
+@font-face{
+    font-family: "InterCondMedium";
+    src: url('../fonts/CondensedMedium.ttf')
+}
+
+@font-face{
+    font-family: "InterCondRegular";
+    src: url('../fonts/CondensedRegular.ttf')
+}
+
+@font-face{
+    font-family: "InterDemiBold";
+    src: url('../fonts/DemiBold.ttf')
+}
+
+@font-face{
+    font-family: "InterExtraBold";
+    src: url('../fonts/ExtraBold.ttf')
+}
+
+@font-face{
+    font-family: "InterExtraLight";
+    src: url('../fonts/ExtraLight.ttf')
+}
+
+@font-face{
+    font-family: "InterLight";
+    src: url('../fonts/Light.ttf')
+}
+
+@font-face{
+    font-family: "InterMedium";
+    src: url('../fonts/Medium.ttf')
+}
+
+@font-face{
+    font-family: "InterRegular";
+    src: url('../fonts/Regular.ttf')
+}
+
+@font-face{
+    font-family: "InterVariable";
+    src: url('../fonts/Variable.ttf')
+}
+
+body{
+    margin: 0;
+}

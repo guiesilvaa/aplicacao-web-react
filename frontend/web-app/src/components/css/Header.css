@@ -1,0 +1,63 @@
+.header-background{
+    background-color: rgb(222, 222, 222);
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-op{
+    display: flex;
+    justify-content: left;
+}
+
+.header-op-button{
+        background: none;
+        margin: 10px;
+        padding: 10px;
+        font-size: 20px;
+        border: none;
+        font-family: "InterRegular";
+}
+.header-op-button:hover{
+    background: rgba(255, 255, 255, 0.618);
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    font-family: "InterRegular";
+}
+
+
+.header-logo{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/app-web-react-d8c07.appspot.com/o/logoipsum-330.svg?alt=media&token=b3a60951-9d09-4879-aff1-d414fd64e7e9');
+    margin: 20px;
+    margin-left: 20px;
+    width: 186.992px;
+    height: 40px;
+    display: flex;
+}
+
+.header-register{
+    display: flex;
+    justify-content: center;
+}
+
+.header-register-button{
+    background: none;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    font-family: "InterRegular";
+    text-align: center;
+}
+.header-register-button:hover{
+    background: rgba(255, 255, 255, 0.618);
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    font-family: "InterRegular";
+}
